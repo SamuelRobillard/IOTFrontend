@@ -1,3 +1,9 @@
+# Autre repo
+
+Liens vers le IoT : https://github.com/SamuelRobillard/Tricolo_IoT  
+Liens vers le backend https://github.com/SamuelRobillard/IOTbackend
+
+
 <img width="231" height="123" alt="image" src="https://github.com/user-attachments/assets/390c512c-b817-48c5-b40b-649d19009e57" />
 
 # Tricolo – Application Mobile & Dashboard
